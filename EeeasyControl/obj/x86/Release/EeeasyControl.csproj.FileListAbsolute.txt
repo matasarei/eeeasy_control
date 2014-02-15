@@ -1,0 +1,10 @@
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\bin\Release\EeeasyControl.exe
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\bin\Release\EeeasyControl.pdb
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\EeeasyControl.About.resources
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\EeeasyControl.Main.resources
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\EeeasyControl.Properties.Resources.resources
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\EeeasyControl.exe
+C:\Users\hell_chief\Documents\Visual Studio 2010\Projects\EeeasyControl\EeeasyControl\obj\x86\Release\EeeasyControl.pdb
