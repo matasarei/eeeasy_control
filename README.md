@@ -3,6 +3,8 @@
 
 Current version 1.1
 
+![eeeasycontrol](https://cloud.githubusercontent.com/assets/6638367/6540903/c22cb32a-c4bf-11e4-8c44-14b1c9fcacb7.PNG)
+
 ## Feautures 
 * Screen orientation keys
 * Hotkeys emulation:
