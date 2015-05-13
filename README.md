@@ -1,5 +1,5 @@
 #Eeeasy Control
-"Eeeasy Control" is a quick menu for Windows 8, designed specifically for EeePC T101.
+"Eeeasy Control" is a quick menu for Windows 8, designed for EeePC T101.
 
 Current version 1.1
 
